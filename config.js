@@ -15,7 +15,7 @@
         ""
     ],
     "eventDisabled": [],
-    "BOTOWNER": "Zeeshan Altag",
+    "BOTOWNER": "FAHIM CHATBOT",
     "OWNERLINK": "https://www.facebook.com/profile.php?id=zeeshanofficial01",
     "OWNERID": "100009593303125",
     "BOTCREATOR": "Zeeshan Altaf",
@@ -24,7 +24,7 @@
     "BOTNAME": "𝐋𝐄𝐀𝐑𝐍 𝐅𝐎𝐑 𝐁𝐄𝐆𝐈𝐍𝐍𝐄𝐑𝐒",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100009593303125",
+        "61593929085704",
         "",
         "",
         "",
